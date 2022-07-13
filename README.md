@@ -27,3 +27,10 @@ Type of machine learning problem
 It is a regression problem
 
 Performane metric :  Log of mean absolute error
+
+![image](https://user-images.githubusercontent.com/97076224/178788644-170d9cc1-ee1a-4bf8-a842-9e646fd2a29c.png)
+
+Visualization of data
+![image](https://user-images.githubusercontent.com/97076224/178788797-0f4165dc-5bd2-4e4a-aba0-bd10a467fc26.png)
+
+
