@@ -1,0 +1,2 @@
+# Predicting_molecular_properties
+Kaggel competition problem
